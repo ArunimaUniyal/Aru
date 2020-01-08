@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+=======
+This is future branch
+this is hotfix branch
+>>>>>>> hotfix_branch
