@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-this is the changed file
-=======
-This is future branch
->>>>>>> future_branch1
